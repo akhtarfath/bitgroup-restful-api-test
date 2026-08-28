@@ -1,0 +1,7 @@
+.env
+data/
+/tmp/
+build-errors.log
+/main
+*.exe
+.DS_Store
